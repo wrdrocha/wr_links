@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O wr-links é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://wrdrocha.github.io/wr-links)
+- [Acesse o projeto finalizado, online](https://wrdrocha.github.io/wr_links)
 
 ## 🔖 Layout
 
